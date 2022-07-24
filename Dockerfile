@@ -1,1 +1,1 @@
-From  alpine:latest
+From  httpd
